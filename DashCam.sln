@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashCam", "DashCam\DashCam.csproj", "{9B9CB625-797B-4713-92F1-75184CE39F90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B9CB625-797B-4713-92F1-75184CE39F90}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{9B9CB625-797B-4713-92F1-75184CE39F90}.Debug|anycpu.Build.0 = Debug|anycpu
+		{9B9CB625-797B-4713-92F1-75184CE39F90}.Release|anycpu.ActiveCfg = Release|anycpu
+		{9B9CB625-797B-4713-92F1-75184CE39F90}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DDC0AE1-4E98-47AD-8697-5D4A50B8C26C}
+	EndGlobalSection
+EndGlobal
